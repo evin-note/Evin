@@ -1,2 +1,2 @@
 # Evin
-Evin is a programming language
+Evin Note Project
