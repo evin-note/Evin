@@ -2,47 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xuggle_xuggler_noarch_5_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CamFxv3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CamFxv3/sample/Controller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CamFxv3/sample/Controller$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CamFxv3/sample/Controller$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CamFxv3/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CamFxv3/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CamFxv3/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/photo9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wav/test.wav" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Evin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.." afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSound/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/libs1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/xuggle_xuggler_noarch_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/CamFxv3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/wav/test.wav" beforeDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,22 +98,85 @@
     <breakpoint_rules converted="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/CamFxv3.iml">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="67" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/window/window.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="183" selection-start-line="12" selection-start-column="183" selection-end-line="12" selection-end-column="183" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/description.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/window/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/window/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/windowJava_ver_1.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -129,6 +195,10 @@
       <find>moviefile</find>
       <find>picImage</find>
       <find>picflag</find>
+      <find>line</find>
+      <find>ais</find>
+      <find>filetype</find>
+      <find>wavs</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -137,27 +207,28 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/takePhoto.java" />
-        <option value="$PROJECT_DIR$/src/sample/TakePhoto.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/window/takePhoto.java" />
+        <option value="$PROJECT_DIR$/src/window/TakePhoto.java" />
+        <option value="$PROJECT_DIR$/src/window/window.fxml" />
+        <option value="$PROJECT_DIR$/src/window/window.fxml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/src/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/window/Main.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/window/Controller.java" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="361" />
-    <option name="y" value="358" />
-    <option name="width" value="654" />
-    <option name="height" value="984" />
+    <option name="x" value="-234" />
+    <option name="y" value="399" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -168,19 +239,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
+              <item name="windowJava_ver_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="windowJava_ver_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="windowJava_ver_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="windowJava_ver_1" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="windowJava_ver_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="windowJava_ver_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="windowJava_ver_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="windowJava_ver_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,12 +281,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CamFxv3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2019-08\Git\sweetpotato\windowJava_ver_1\out\production\windowJava_ver_1\window" />
+      <recent name="C:\Users\2019-08\Git\sweetpotato\CamFxv3\movie" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,8 +326,8 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="CamFxv3" />
+      <option name="MAIN_CLASS_NAME" value="window.Main" />
+      <module name="windowJava_ver_1" />
       <option name="VM_PARAMETERS" value="--module-path &quot;\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web" />
       <extension name="coverage">
         <pattern>
@@ -306,7 +399,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.18122977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.26132685" />
       <window_info id="Structure" order="1" weight="0.24919094" />
       <window_info id="Favorites" order="2" weight="0.32928804" />
       <window_info id="Designer" order="3" />
@@ -315,7 +408,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33372504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21453287" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21453287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,28 +482,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.graphics.jar!/com/sun/javafx/tk/quantum/GlassViewEventHandler.class" />
-    <entry file="file://$PROJECT_DIR$/src/sample/TakePhoto.java" />
-    <entry file="file://$PROJECT_DIR$/CamFxv2.iml" />
-    <entry file="file://$PROJECT_DIR$/Hello.png" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="193" column="28" selection-start-line="193" selection-start-column="6" selection-end-line="193" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/xuggle-xuggler-noarch-5.4.jar!/com/xuggle/ferry/JNIMemoryManager.class" />
-    <entry file="jar://C:/Program Files/Java/xuggle-xuggler-noarch-5.4.jar!/com/xuggle/mediatool/MediaWriter.class" />
-    <entry file="jar://C:/Program Files/Java/xuggle-xuggler-noarch-5.4.jar!/com/xuggle/mediatool/ToolFactory.class" />
-    <entry file="file://$PROJECT_DIR$/photo.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo14.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo12.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo16.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo15.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo10.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo13.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo11.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo17.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo18.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo19.png" />
@@ -424,21 +495,97 @@
     <entry file="file://$PROJECT_DIR$/pictures/photo24.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo23.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo28.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo4.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo3.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo2.png" />
-    <entry file="file://$PROJECT_DIR$/pictures/photo1.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo4.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo2.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo21.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo22.png" />
+    <entry file="file://$PROJECT_DIR$/movie/wav/test1.wav" />
+    <entry file="file://$PROJECT_DIR$/movie/wav/test.wav" />
+    <entry file="file://$PROJECT_DIR$/test1.wav" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo3.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo1.png" />
+    <entry file="file://$PROJECT_DIR$/movie/wav/movieNo.0.wav" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.10.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.9.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.8.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.7.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.6.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.5.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.4.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.3.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.2.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.1.png" />
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
-    <entry file="file://$PROJECT_DIR$/CamFxv3.iml" />
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/CamFxv3.iml">
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/window/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/CamFxv3.iml" />
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="67" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/window/window.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="183" selection-start-line="12" selection-start-column="183" selection-end-line="12" selection-end-column="183" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/window/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowJava_ver_1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/window/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
