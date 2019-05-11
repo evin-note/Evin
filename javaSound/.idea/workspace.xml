@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42cef18c-3bd3-4383-970d-e53a221f072c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/lib1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/libs1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/xuggle_xuggler_noarch_5_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/CamFxv3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/wav/test.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowJava_ver_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../windowJava_ver_1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RecordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="292">
+              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -218,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RecordTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="292">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
