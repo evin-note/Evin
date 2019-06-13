@@ -1,13 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-</head>
-<body>
 <?php
-$arr = array("taka" => 1, "choko" => 32);
+include "./TCPDF/tcpdf.php";
 
-echo json_encode($arr);
+$pdf = new TCPDF();
+$pdf->Addpage();
+
+$pdf->SetFont("kozgopromedium", "", 10);
+
+$content = <<< EOF
+<h1>PDF Testttttttttt</h1>
+<p>
+    PDFPDFPDFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    PDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+</p>
+EOF;
+
+$pdf->writeHTML($content);
+$pdf->Output("marimo.pdf", 'I');
 ?>
-</body>
-</html>
