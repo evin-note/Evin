@@ -1,51 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CamFxv3" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Evin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.." afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaSound/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/lib1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/libs1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/libraries/xuggle_xuggler_noarch_5_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newest/CamFxv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/CamFxv3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/out/production/CamFxv3/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/pictures/photo9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/src/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newest/CamFxv3/wav/test.wav" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/CamFxv2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/out/production/CamFxv2/META-INF/CamFxv2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/out/production/CamFxv2/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/out/production/CamFxv2/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/out/production/CamFxv2/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/out/production/CamFxv2/sample/TakePhoto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/out/production/CamFxv2/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv2/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/libraries/libs1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/libraries/xuggle_xuggler_noarch_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/CamFxv3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/out/production/CamFxv3/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/out/production/CamFxv3/sample/Controller$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/out/production/CamFxv3/sample/Controller$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/out/production/CamFxv3/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/out/production/CamFxv3/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/out/production/CamFxv3/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CamFxv3/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework graph.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/RecordAudio.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/javaSound.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/out/production/javaSound/RecordTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaSound/src/RecordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../openCV/AKAZECV.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../openCV/AKAZECV.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../openCV/OpenCV test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../openCV/OpenCV test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/libraries/libs1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/libraries/xuggle_xuggler_noarch_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/out/production/windowJava_ver_1/window/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/out/production/windowJava_ver_1/window/Controller$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/out/production/windowJava_ver_1/window/Controller$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/out/production/windowJava_ver_1/window/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/out/production/windowJava_ver_1/window/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/out/production/windowJava_ver_1/window/window.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/src/window/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/src/window/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/src/window/window.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../windowJava_ver_1/windowJava_ver_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../車いす(エレベータから階段を上る)/x-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../車いす(エレベータから階段を上る)/y-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../車いす(エレベータから階段を上る)/z.txt" beforeDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="218">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#540#541#0" expanded="true" />
@@ -119,14 +166,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
+            <state relative-caret-position="-1247">
+              <caret line="130" column="89" selection-start-line="130" selection-start-column="89" selection-end-line="130" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/manifest.mf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setting.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -159,7 +234,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -171,15 +246,16 @@
         <option value="$PROJECT_DIR$/src/sample/Main.java" />
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/manifest.mf" />
+        <option value="$PROJECT_DIR$/setting.xml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1091" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -190,6 +266,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,54 +278,12 @@
             <path>
               <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
               <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="movie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CamFxv3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CamFxv3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +298,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -376,11 +411,57 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1302000" />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25323623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.29068825" />
+      <window_info id="Structure" order="1" weight="0.24919094" />
+      <window_info id="Favorites" order="2" weight="0.32928804" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33372504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21344538" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" weight="0.33277312" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3217247" />
+      <window_info anchor="bottom" id="Regex Tester" order="14" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="ASM" order="8" weight="0.32955465" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.27611336" />
       <window_info id="Structure" order="1" weight="0.24919094" />
       <window_info id="Favorites" order="2" weight="0.32928804" />
       <window_info id="Designer" order="3" />
@@ -389,7 +470,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33372504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21453287" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21393035" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,43 +496,6 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.6703755" visible="true" weight="0.24433658" />
-      <window_info id="Structure" order="3" weight="0.24939272" />
-      <window_info id="Favorites" order="4" weight="0.32955465" />
-      <window_info id="Designer" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37831604" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Problems" order="9" />
-      <window_info anchor="bottom" id="Changes" order="10" />
-      <window_info anchor="bottom" id="Profiler" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32756633" />
-      <window_info anchor="bottom" id="Regex Tester" order="14" />
-      <window_info anchor="bottom" id="Terminal" order="15" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" />
-      <window_info anchor="right" id="ASM" order="10" weight="0.32955465" />
-      <window_info anchor="right" id="Palette&#9;" order="11" />
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
@@ -463,14 +507,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hello.png" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="193" column="28" selection-start-line="193" selection-start-column="6" selection-end-line="193" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -482,27 +518,13 @@
     <entry file="jar://C:/Program Files/Java/xuggle-xuggler-noarch-5.4.jar!/com/xuggle/mediatool/MediaWriter.class" />
     <entry file="jar://C:/Program Files/Java/xuggle-xuggler-noarch-5.4.jar!/com/xuggle/mediatool/ToolFactory.class" />
     <entry file="file://$PROJECT_DIR$/photo.png" />
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo14.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo12.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo16.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo15.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo11.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo14.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo12.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo16.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo15.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo10.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo13.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo11.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo17.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo18.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo19.png" />
@@ -516,37 +538,15 @@
     <entry file="file://$PROJECT_DIR$/pictures/photo24.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo23.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo28.png" />
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo4.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo2.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo21.png" />
     <entry file="file://$PROJECT_DIR$/pictures/photo22.png" />
-    <entry file="file://$PROJECT_DIR$/movie/wav/test1.wav">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/wav/test.wav">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.wav">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2805">
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/photo1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/wav/test1.wav" />
+    <entry file="file://$PROJECT_DIR$/movie/wav/test.wav" />
+    <entry file="file://$PROJECT_DIR$/test1.wav" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo3.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/photo1.png" />
     <entry file="file://$PROJECT_DIR$/CamFxv3.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -554,54 +554,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/wav/movieNo.0.wav">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1377" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.9.png">
-      <provider selected="true" editor-type-id="ninepatcheditor" />
-      <provider editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/movie/wav/movieNo.0.wav" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.10.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.9.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.8.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.7.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.6.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.5.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.4.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.3.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.2.png" />
+    <entry file="file://$PROJECT_DIR$/movie/pictures/movieNo.1_photoNo.1.png" />
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="218">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#540#541#0" expanded="true" />
@@ -610,13 +577,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
+        <state relative-caret-position="-1247">
+          <caret line="130" column="89" selection-start-line="130" selection-start-column="89" selection-end-line="130" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -626,11 +615,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>JavaFXApp</last-edited>
+          <last-edited>CamFxv3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -678,6 +668,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -685,7 +676,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>libs1</last-edited>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -696,5 +687,15 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
   </component>
 </project>

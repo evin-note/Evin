@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="build" name="SimpleJarApp">
+<property name="jarName" value="SimpleJarApp.jar"/>
+<target name="build">
+<delete dir="work" />
+<mkdir dir="work" />
+<javac
+srcdir="src"
+encoding="UTF-8"
+target="1.6"
+debug="true"
+destdir="work" />
+<copy toDir="work">
+<fileset dir="src">
+<exclude name="**/*.java"/>
+</fileset>
+</copy>
+<jar
+basedir="work"
+destfile="${jarName}">
+<manifest>
+<attribute
+name="Main-Class"
+value="jp.seraphyware.smplejarapp.SimpleJarApp" />
+</manifest>
+</jar>
+<delete dir="work" />
+</target>
+</project>
